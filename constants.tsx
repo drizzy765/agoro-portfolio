@@ -50,6 +50,12 @@ export const PROJECTS: Project[] = [
 
 export const VERIFICATIONS: Verification[] = [
   {
+    title: 'Professional Resume',
+    issuer: 'Agoro Teslim // Updated 2025',
+    url: 'https://drive.google.com/file/d/10S120gJQHYKUijm93hKmZ3_niwcEV44S/view?usp=sharing',
+    icon: '📄'
+  },
+  {
     title: 'BSc Mathematics',
     issuer: 'Lagos State University (LASU)',
     url: 'https://lasu.edu.ng/',
